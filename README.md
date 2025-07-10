@@ -54,18 +54,14 @@ Este es el entregable del proyecto final de e-commerce creado con **React + Vite
 
 ## 💻 Cómo correr el proyecto
 
-1. Cloná el repositorio:
-
+# 1️⃣ Cloná el repositorio
 git clone https://github.com/SantiFontana04/CreaTuLanding1Fontana.git
 
-Entrá al proyecto:
-
+# 2️⃣ Entrá a la carpeta del proyecto
 cd ProyectoFinalFontana
 
-Instalá las dependencias:
-
+# 3️⃣ Instalá las dependencias
 npm install
 
-Iniciá el servidor de desarrollo:
-
+# 4️⃣ Iniciá el servidor de desarrollo
 npm run dev
